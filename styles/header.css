@@ -18,6 +18,7 @@
 
 #secondary {
   padding-block: 14px;
+  justify-content: space-between;
 
   border-top: 1px solid var(--stroke-color);
   border-bottom: 1px solid var(--stroke-color);
